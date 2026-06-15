@@ -1,5 +1,4 @@
 # Büyük Veri Analizi — Final Projesi
-[SONUÇ ÖZETİ DOSYALARIN EN ALT KISMINDA](url)
 
 **Heart Disease Risk Factors and Patient Health Survey**
 
