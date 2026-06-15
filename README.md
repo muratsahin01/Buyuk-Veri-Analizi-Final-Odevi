@@ -2,11 +2,6 @@
 
 **Heart Disease Risk Factors and Patient Health Survey**
 
-Mersin Üniversitesi — Erdemli Uygulamalı Teknoloji ve İşletmecilik Yüksekokulu  
-Yönetim Bilişim Sistemleri Bölümü
-
-**Hazırlayan:** Murat Şahin — 22430040029
-
 ---
 
 ## Projeyi Çalıştırma
@@ -103,9 +98,3 @@ Buyuk-Veri-Analizi-Final-Odevi/
 ├── README.md                    # Bu dosya
 └── plot*.png                    # Grafikler
 ```
-
----
-
-## Lisans ve Not
-
-Bu çalışma eğitim amaçlı bir final ödevidir. Sonuçlar klinik tanı koymak için kullanılmamalıdır.
