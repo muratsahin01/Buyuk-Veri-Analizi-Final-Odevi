@@ -19,8 +19,8 @@ Yönetim Bilişim Sistemleri Bölümü
 ### 1. Projeyi indir / aç
 
 ```bash
-git clone <repo-linkiniz>
-cd "büyük veri analizi"
+git clone https://github.com/muratsahin01/Buyuk-Veri-Analizi-Final-Odevi.git
+cd Buyuk-Veri-Analizi-Final-Odevi
 ```
 
 Veya ZIP olarak indirdiysen klasörü aç.
@@ -95,12 +95,13 @@ Bu proje, **327 bireye** ait sağlık ve yaşam tarzı verilerini içeren `Heart
 ## Dosya Yapısı
 
 ```
-büyük veri analizi/
+Buyuk-Veri-Analizi-Final-Odevi/
 ├── heart_disease_analysis.py    # Ana analiz kodu
 ├── Heart_Dataset_Cleaned.csv    # Veri seti
-├── finalödevi.docx              # Analiz raporu
+├── finalödevi.docx / .pdf       # Analiz raporu
+├── sonuc_ozeti.docx / .pdf      # Kısa sonuç özeti
 ├── README.md                    # Bu dosya
-└── plot*.png                    # Script çalışınca oluşan grafikler
+└── plot*.png                    # Grafikler
 ```
 
 ---
